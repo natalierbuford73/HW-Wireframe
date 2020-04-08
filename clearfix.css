@@ -1,0 +1,15 @@
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+  
+  aside {
+    float: left;
+  }
+  
+  section {
+    float: left;
+  }
+
+  
